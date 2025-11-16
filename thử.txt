@@ -1,6 +1,4 @@
-local v14 = repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
-getgenv().
-loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
+local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateMobile({
     Title = "NTT Hub-Blox Fruit [ Premium ]",-- thay tên bạn muốn đặt
     SubTitle = "By Member",-- tên bạn
